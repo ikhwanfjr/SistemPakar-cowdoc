@@ -26,7 +26,6 @@ rules = [
         "penyakit": "Mastitis",
         "gejala": ["Produksi Susu Menurun", "Lesu dan Tidak Aktif", "Suhu Tubuh Tinggi"],
         "solusi": "Periksa ambing, kompres hangat, beri antibiotik."
-  }
     }
 ]
 
