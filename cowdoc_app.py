@@ -51,7 +51,7 @@ gejala_list = [
     "Lesu dan Tidak Aktif",
     "Mata Berair",
     "Perut Kembung",
-    "Produksi Susu Menurun",
+    "Produksi Susu Menurun"
 ]
 
 selected_gejala = []
