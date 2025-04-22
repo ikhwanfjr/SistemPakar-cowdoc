@@ -47,7 +47,7 @@ gejala_list = [
     "Diare",
     "Keluarnya Lendir dari Hidung",
     "Batuk",
-    "Luka pada Kulit",
+    "Luka Pada Kulit",
     "Lesu dan Tidak Aktif",
     "Mata Berair",
     "Perut Kembung",
